@@ -1,4 +1,4 @@
-# AutoGenU for Jupyter
+# Fault-Tolerant Control Benchmark of a Quadrotor with AutoGenU for Jupyter
 
 [![build](https://github.com/ohtsukalab/autogenu-jupyter/actions/workflows/build.yaml/badge.svg?branch=master)](https://github.com/ohtsukalab/autogenu-jupyter/actions/workflows/build.yaml)
 [![doxygen](https://github.com/ohtsukalab/autogenu-jupyter/actions/workflows/doxygen.yaml/badge.svg)](https://github.com/ohtsukalab/autogenu-jupyter/actions/workflows/doxygen.yaml)
