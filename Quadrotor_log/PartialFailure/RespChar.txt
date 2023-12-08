@@ -1,0 +1,31 @@
+This is copied manually from PlotSimQuadrotorFTC.ipynb
+
+----- Characteristics of x(t) -----
+SteadyStateValue : -0.02167825597644563
+SteadyStateError : -0.02167825597644563
+Overshoot : 2.589000096898431
+SettlingTime : 9.420000000000218
+RiseTime : 2.0849999999998357
+DelayTime : 1.478999999999948
+PeakTime : 3.7319999999997
+UnderShoot : 0.0
+
+----- Characteristics of y(t) -----
+SteadyStateValue : 0.01839578895199009
+SteadyStateError : 0.01839578895199009
+Overshoot : 2.5329158676497565
+SettlingTime : 4.737999999999917
+RiseTime : 1.6439999999998192
+DelayTime : 1.986999999999892
+PeakTime : 4.582999999999865
+UnderShoot : 13.49051260575714
+
+----- Characteristics of z(t) -----
+SteadyStateValue : -0.04872992234819333
+SteadyStateError : -0.04872992234819333
+Overshoot : 7.4159522200286005
+SettlingTime : 3.541999999999721
+RiseTime : 0.7049999999999611
+DelayTime : 0.9960000000000008
+PeakTime : 1.8359999999999086
+UnderShoot : 2.7249557131355826
