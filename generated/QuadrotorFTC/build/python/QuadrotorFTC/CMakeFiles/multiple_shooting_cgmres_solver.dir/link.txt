@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\multiple_shooting_cgmres_solver.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\multiple_shooting_cgmres_solver.dir/objects.a @CMakeFiles\multiple_shooting_cgmres_solver.dir\objects1
+C:\mingw64\bin\c++.exe -O3 -DNDEBUG -shared -o multiple_shooting_cgmres_solver.cp38-win_amd64.pyd -Wl,--out-implib,libmultiple_shooting_cgmres_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\multiple_shooting_cgmres_solver.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\multiple_shooting_cgmres_solver.dir\linkLibs.rsp

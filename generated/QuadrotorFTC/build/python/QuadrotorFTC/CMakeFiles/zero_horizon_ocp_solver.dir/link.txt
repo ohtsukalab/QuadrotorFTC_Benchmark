@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\zero_horizon_ocp_solver.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\zero_horizon_ocp_solver.dir/objects.a @CMakeFiles\zero_horizon_ocp_solver.dir\objects1
+C:\mingw64\bin\c++.exe -O3 -DNDEBUG -shared -o zero_horizon_ocp_solver.cp38-win_amd64.pyd -Wl,--out-implib,libzero_horizon_ocp_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\zero_horizon_ocp_solver.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\zero_horizon_ocp_solver.dir\linkLibs.rsp
